@@ -8,7 +8,7 @@ Add flag.php to your folder before hacking. Hope you enjoy my challenge!
 | Name       | Description                                                                                       | Port | WriteUp |
 |------------|---------------------------------------------------------------------------------------------------|------|---------|
 | MultipleFilter    | Sometime a first kill the seccond. Enjoy your challenge                                 | 80 | [Link]()    |
-| 0x1310     | Can you find this magic variable                               | 80 | [Link]()    |
+| 1310     | Can you find this magic variable                               | 80 | [Link]()    |
 | L0calS3cr3t | Wtf, how can I find this secret when it only send in local network           | 80 | [Link]()    |
 
 
