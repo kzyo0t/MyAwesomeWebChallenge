@@ -2,7 +2,7 @@
 
 
 **<p align="center">You can comment or email me at khoank14@gmail.com for any questions. Welcome everyone <3</p>**
-
+Add flag.php to your folder before hacking. Hope you enjoy my challenge!
 
 ### <p align="center">**-[ EASY ]-**</p>
 | Name       | Description                                                                                       | Port | WriteUp |
