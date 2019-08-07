@@ -11,7 +11,7 @@ if ($_SERVER['REMOTE_ADDR'] == "127.0.0.1")//your localhost:)
   if(isset($header['Flag5'])&&isset($_COOKIE["name"]))
   {
     if ($header['Flag5']==$flag5)
-       echo "Congratulation! <font color='red'>".$flag."</font><br>";
+       echo "Congratulation! <font color='red'>"."but this is not flag"."</font><br>";
   }
 }
 else
